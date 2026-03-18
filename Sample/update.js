@@ -1,0 +1,37 @@
+// ==/UserScript==
+// @name
+// @name:XX (localized)
+// @namespace
+// @version
+// @description
+// @description:XX (localized)
+// @author
+// @match
+// @include
+// @exclude
+// @run-at
+// @grant
+// @require
+// @resource
+// @connect
+// @noframes
+// @icon
+// @icon64
+// @defaulticon
+// @updateURL
+// @downloadURL
+// @installURL
+// @supportURL
+// @homepage
+// @homepageURL
+// @website
+// @source
+// @license
+// @copyright
+// @antifeature
+// @compatible
+// @incompatible
+// @unwrap
+// @nocompat
+// @sandbox
+// ==/UserScript==
